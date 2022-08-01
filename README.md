@@ -24,4 +24,9 @@
  A test case still needs to be completed for checking if models returned(printed are correct)
  
  If i had more time i would use regex to remove special characters from the database.
+ 
+ ## next steps
+ - create a resting API
+ - learn how to test output data from csv files
+ -  use regex to remove special characters and white spaces 
   
