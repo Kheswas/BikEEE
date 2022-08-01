@@ -9,9 +9,13 @@
 ### pip install packages:
   - pip install pytest
  - pip install pandas
+ - pip install datatest
  
 ### run application in local env
  - python or python3 bikes.py
+ 
+ ##### run tests
+ - pytest test.py
  
  
  #### About this project
